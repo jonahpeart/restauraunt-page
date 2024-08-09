@@ -1,1 +1,6 @@
-# restauraunt-page
+Nano Bistro Restauraunt Page
+=======================================
+
+odin project #idek
+
+* * *
